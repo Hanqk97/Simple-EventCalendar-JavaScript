@@ -24,8 +24,8 @@
 
 - Following is the structure of database and initial data of events table.
   
-![strucuture](https://github.com/cse330-summer-2022/module5-group-505891/blob/master/table%20structure.png)
-![table](https://github.com/cse330-summer-2022/module5-group-505891/blob/master/events%20table.png)   
+![strucuture](https://github.com/Hanqk97/Simplr-EventCalendar-JavaScript/blob/main/table%20structure.png)
+![table](https://github.com/Hanqk97/Simplr-EventCalendar-JavaScript/blob/main/events%20table.png)   
   
 ## Web Security
 
